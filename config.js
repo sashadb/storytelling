@@ -1,12 +1,12 @@
 var config = {
-    style: 'mapbox://styles/mapbox/streets-v11',
-    accessToken: 'pk.eyJ1Ijoic2FzaGFzYXlzaGkiLCJhIjoiY2s5MDc5MWYwMDJlajNsbnRnOXIwazloYyJ9.m4VBn5t5ZCIJT4Mmj9L-Xw',
+    style: 'mapbox://styles/countermapping-ireland/ck24pi8wy0qfb1cpgej4mc2xc',
+    accessToken: 'pk.eyJ1IjoiY291bnRlcm1hcHBpbmctaXJlbGFuZCIsImEiOiJjazI0b3p4Y2MyNWJoM2htdmZiNDgxdWxnIn0.95fvRhIeqfnjE5ioOdSAkw',
     showMarkers: false,
     theme: 'light',
     alignment: 'right',
     title: '',
-    subtitle: '',
-    byline: 'Countermapping the Irish Carceral State',
+    subtitle: 'Countermapping the Irish Carceral State',
+    byline: '',
     footer: 'Source: Countermapping the Irish Carceral State -- Vukašin, Joe and Sasha',
     chapters: [
         {
